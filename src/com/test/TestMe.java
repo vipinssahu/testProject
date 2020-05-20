@@ -1,11 +1,18 @@
 package com.test;
 
+
 public class TestMe {
 	
-	int a = 10;
-	int b = 20;
+	String test="test";
 	
-	int test = a + b;
+	public void test(){
+		int a;
+		int b;
+		int test;
+		
+		float test1;
+		System.out.println("Test add :: " );
+		System.out.println("Test divid :: " );
+	}
 	
-	float test1 = a/b;
 }
