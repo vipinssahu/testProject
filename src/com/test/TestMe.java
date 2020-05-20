@@ -6,5 +6,6 @@ public class TestMe {
 	int b = 20;
 	
 	int test = a + b;
-
+	
+	float test1 = a/b;
 }
